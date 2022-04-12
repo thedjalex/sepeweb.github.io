@@ -4,7 +4,7 @@ html {
 
 body {
     margin: 0;
-    height: 400px;
+    height: 500px;
     background-image: url("img/fondo.png");
     background-repeat:no-repeat;
     background-position-x:center;
@@ -24,7 +24,7 @@ header h1 {
     text-align: center;
 }
 .container {
-    width: 400px;
+    width: 500px;
     margin: 0 auto;
 }
 
